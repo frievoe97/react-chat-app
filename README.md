@@ -1,5 +1,11 @@
 # Chat Application
 
+![FastAPI](https://img.shields.io/badge/fastapi-0.95.2-blue)
+![React](https://img.shields.io/badge/react-18.3.1-blue)
+![PostgreSQL](https://img.shields.io/badge/postgresql-13-blue)
+![Python](https://img.shields.io/badge/python-3.11-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
 <img src="https://github.com/user-attachments/assets/9e4a15b0-7810-4c49-aaf6-2d93bce2a104" width="300"/>
 <img src="https://github.com/user-attachments/assets/da63569c-c002-41dc-9fee-97cdd3e2d3c3" width="300"/>
 <img src="https://github.com/user-attachments/assets/11425b06-03d0-4ae9-b46c-7d48578138fd" width="300"/>
