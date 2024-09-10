@@ -1,0 +1,47 @@
+# Ignoriere node_modules in Frontend
+frontend/node_modules/
+
+# Ignoriere Python-Bytecode-Dateien
+*.py[cod]
+__pycache__/
+*.pyo
+*.pyd
+
+# Ignoriere Python-Virtual-Environments (falls es welche gibt)
+venv/
+**/venv/
+
+# Ignoriere Docker-Dateien (außer Dockerfiles)
+!**/Dockerfile
+
+# Ignoriere Logdateien
+*.log
+
+# Ignoriere MacOS spezifische Dateien
+.DS_Store
+
+# Ignoriere spezifische IDE-Konfigurationsdateien
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignoriere Paketmanager Lock-Dateien (optional, falls du diese nicht versionieren möchtest)
+# package-lock.json
+# yarn.lock
+
+# Ignoriere Build-Output, falls vorhanden
+dist/
+build/
+
+# Ignoriere Tailwind CSS Konfigurationsdateien (optional)
+# tailwind.config.js
+# postcss.config.js
+
+# Ignoriere öffentliche Dateien (falls sie generiert werden)
+# frontend/public/
+# mock/
+
+# Ignoriere environment Dateien
+.env
+**/.env
