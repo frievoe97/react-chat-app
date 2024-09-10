@@ -6,9 +6,9 @@
 ![Python](https://img.shields.io/badge/python-3.11-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
-<img src="https://github.com/user-attachments/assets/9e4a15b0-7810-4c49-aaf6-2d93bce2a104" width="300"/>
-<img src="https://github.com/user-attachments/assets/da63569c-c002-41dc-9fee-97cdd3e2d3c3" width="300"/>
-<img src="https://github.com/user-attachments/assets/11425b06-03d0-4ae9-b46c-7d48578138fd" width="300"/>
+<img width="500" src="https://github.com/user-attachments/assets/b6498ee6-bfb4-41de-a82b-cef7a555c3a8">
+<img width="500" src="https://github.com/user-attachments/assets/eed71bef-6759-4f00-a6fa-73300a60abcd">
+<img width="500" src="https://github.com/user-attachments/assets/e59d73ce-ecbd-4a2c-817c-5abcbf9f69e4">
 
 
 This is a simple chat application built using FastAPI for the backend, React for the frontend, and PostgreSQL for the database. The application allows users to register, log in, chat with other users, and participate in group chats. The app also indicates when someone is typing. 
